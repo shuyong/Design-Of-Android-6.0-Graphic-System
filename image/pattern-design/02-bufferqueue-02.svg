@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!-- Creator: fig2dev Version 3.2.6a -->
-<!-- CreationDate: 2019-01-11 13:14:02 -->
+<!-- CreationDate: 2019-01-12 16:40:38 -->
 <!-- Magnification: 1.05 -->
 <svg	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -174,7 +174,7 @@
 		M 9600,1284 9750,1284 9682,1118 9668,1118z"/>
 </clipPath>
 </defs>
-<polyline points=" 4275,1575 4275,675 8775,675" clip-path="url(#cp10)"
+<polyline points=" 6975,1575 6975,675 8775,675" clip-path="url(#cp10)"
 	stroke="#000000" stroke-width="8px"/>
 <!-- Forward arrow to point 8775,675 -->
 <polyline points=" 8638,645 8758,675 8638,705"
@@ -218,12 +218,12 @@
 <!-- Text -->
 <text xml:space="preserve" x="9000" y="900" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">ConsumerListener</text>
 <!-- Text -->
-<text xml:space="preserve" x="6525" y="675" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">FrameAvailable</text>
-<!-- Text -->
 <text xml:space="preserve" x="4950" y="-225" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Resource Pool + Listener Pattern</text>
 <!-- Text -->
 <text xml:space="preserve" x="5535" y="180" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">OS</text>
 <!-- Text -->
 <text xml:space="preserve" x="4275" y="225" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Client side</text>
+<!-- Text -->
+<text xml:space="preserve" x="7425" y="675" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">FrameAvailable</text>
 </g>
 </svg>
