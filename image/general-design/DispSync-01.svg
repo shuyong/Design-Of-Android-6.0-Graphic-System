@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!-- Creator: fig2dev Version 3.2.6a -->
-<!-- CreationDate: 2019-01-20 23:45:27 -->
+<!-- CreationDate: 2019-01-21 01:04:25 -->
 <!-- Magnification: 1.05 -->
 <svg	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -275,8 +275,6 @@
 <polyline points=" 9362,345 9242,315 9362,285"
 	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
 <!-- Text -->
-<text xml:space="preserve" x="4950" y="2025" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">sample 2#</text>
-<!-- Text -->
 <text xml:space="preserve" x="6750" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">sin(1#)</text>
 <!-- Text -->
 <text xml:space="preserve" x="4950" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">sin(2#)</text>
@@ -290,8 +288,6 @@
 <text xml:space="preserve" x="5985" y="1935" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">"0"</text>
 <!-- Text -->
 <text xml:space="preserve" x="6930" y="3600" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">r = 1</text>
-<!-- Text -->
-<text xml:space="preserve" x="5175" y="4275" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">&#223;ample 1# = - sample 2#</text>
 <!-- Text -->
 <text xml:space="preserve" x="5175" y="4500" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">average = 0, mPhase = 0</text>
 <!-- Text -->
@@ -320,5 +316,9 @@
 <text xml:space="preserve" x="10575" y="-225" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">DispSync : mPeriod &#38; mPhase</text>
 <!-- Text -->
 <text xml:space="preserve" x="10125" y="1350" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">map to 2PI</text>
+<!-- Text -->
+<text xml:space="preserve" x="4950" y="2025" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">sample 2#</text>
+<!-- Text -->
+<text xml:space="preserve" x="5175" y="4275" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">sample 1# = - sample 2#</text>
 </g>
 </svg>
