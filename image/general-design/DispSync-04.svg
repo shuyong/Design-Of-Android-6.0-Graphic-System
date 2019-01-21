@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!-- Creator: fig2dev Version 3.2.6a -->
-<!-- CreationDate: 2019-01-21 10:52:22 -->
+<!-- CreationDate: 2019-01-21 21:36:00 -->
 <!-- Magnification: 1.05 -->
 <svg	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -73,8 +73,6 @@
 <!-- Text -->
 <text xml:space="preserve" x="2925" y="4500" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">now(last)</text>
 <!-- Text -->
-<text xml:space="preserve" x="2925" y="3375" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">wake up by other signal</text>
-<!-- Text -->
 <text xml:space="preserve" x="2925" y="3600" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">if now &#60; nextEventTime</text>
 <!-- Text -->
 <text xml:space="preserve" x="2925" y="3825" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">goto sleep until targetTime</text>
@@ -92,5 +90,7 @@
 <text xml:space="preserve" x="6975" y="3825" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">wakeupLatency &#60;= 0.5ms</text>
 <!-- Text -->
 <text xml:space="preserve" x="6975" y="4050" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Linux real-time performance</text>
+<!-- Text -->
+<text xml:space="preserve" x="2925" y="3375" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">waked up by other signal</text>
 </g>
 </svg>
