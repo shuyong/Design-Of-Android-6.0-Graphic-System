@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!-- Creator: fig2dev Version 3.2.6a -->
-<!-- CreationDate: 2019-01-27 13:53:00 -->
+<!-- CreationDate: 2019-01-27 14:18:20 -->
 <!-- Magnification: 1.05 -->
 <svg	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -200,17 +200,49 @@
 <polyline points=" 2113,4695 2233,4725 2113,4755"
 	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
 <!-- Line -->
+<polyline points=" 6525,4725 6525,5130"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
 <defs>
 <clipPath id="cp9">
 	<path clip-rule="evenodd" d="M 213,1866 H 14637 V 6117 H 213 z
 		M 2113,4695 2233,4725 2113,4755 2257,4732 2257,4718z
-		M 6495,4862 6525,4742 6555,4862 6532,4718 6518,4718z"/>
+		M 6270,4862 6300,4742 6330,4862 6307,4718 6293,4718z"/>
 </clipPath>
 </defs>
-<polyline points=" 6525,4725 6525,5130" clip-path="url(#cp9)"
+<polyline points=" 6300,4725 6300,5130" clip-path="url(#cp9)"
 	stroke="#000000" stroke-width="8px"/>
-<!-- Backward arrow to point 6525,4725 -->
-<polyline points=" 6495,4862 6525,4742 6555,4862"
+<!-- Backward arrow to point 6300,4725 -->
+<polyline points=" 6270,4862 6300,4742 6330,4862"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
+<!-- Line -->
+<polyline points=" 6300,4950 6525,4950"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp10">
+	<path clip-rule="evenodd" d="M 213,1866 H 14637 V 6117 H 213 z
+		M 2113,4695 2233,4725 2113,4755 2257,4732 2257,4718z
+		M 6662,4980 6542,4950 6662,4920 6518,4943 6518,4957z"/>
+</clipPath>
+</defs>
+<polyline points=" 6525,4950 10350,4950" clip-path="url(#cp10)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Backward arrow to point 6525,4950 -->
+<polyline points=" 6662,4980 6542,4950 6662,4920"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp11">
+	<path clip-rule="evenodd" d="M 213,1866 H 14637 V 6117 H 213 z
+		M 6163,4920 6283,4950 6163,4980 6307,4957 6307,4943z
+		M 6662,4980 6542,4950 6662,4920 6518,4943 6518,4957z"/>
+</clipPath>
+</defs>
+<polyline points=" 5850,4950 6300,4950" clip-path="url(#cp11)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 6300,4950 -->
+<polyline points=" 6163,4920 6283,4950 6163,4980"
 	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
 <!-- Text -->
 <text xml:space="preserve" x="450" y="6075" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">HW VSYNC</text>
@@ -260,5 +292,7 @@
 <text xml:space="preserve" x="2475" y="4725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">mPhase, almost = 0</text>
 <!-- Text -->
 <text xml:space="preserve" x="5850" y="4725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Retire fence signal</text>
+<!-- Text -->
+<text xml:space="preserve" x="6750" y="4950" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">PRESENT_TIME_OFFSET_FROM_VSYNC_NS, almost = 0</text>
 </g>
 </svg>
