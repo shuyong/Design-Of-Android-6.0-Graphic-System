@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!-- Creator: fig2dev Version 3.2.6a -->
-<!-- CreationDate: 2019-01-21 03:23:42 -->
+<!-- CreationDate: 2019-01-27 13:53:00 -->
 <!-- Magnification: 1.05 -->
 <svg	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -199,6 +199,19 @@
 <!-- Forward arrow to point 2250,4725 -->
 <polyline points=" 2113,4695 2233,4725 2113,4755"
 	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp9">
+	<path clip-rule="evenodd" d="M 213,1866 H 14637 V 6117 H 213 z
+		M 2113,4695 2233,4725 2113,4755 2257,4732 2257,4718z
+		M 6495,4862 6525,4742 6555,4862 6532,4718 6518,4718z"/>
+</clipPath>
+</defs>
+<polyline points=" 6525,4725 6525,5130" clip-path="url(#cp9)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Backward arrow to point 6525,4725 -->
+<polyline points=" 6495,4862 6525,4742 6555,4862"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
 <!-- Text -->
 <text xml:space="preserve" x="450" y="6075" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">HW VSYNC</text>
 <!-- Text -->
@@ -245,5 +258,7 @@
 <text xml:space="preserve" x="11475" y="5625" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Presenting Frame N + 2</text>
 <!-- Text -->
 <text xml:space="preserve" x="2475" y="4725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">mPhase, almost = 0</text>
+<!-- Text -->
+<text xml:space="preserve" x="5850" y="4725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Retire fence signal</text>
 </g>
 </svg>
