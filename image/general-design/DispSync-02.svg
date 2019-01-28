@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!-- Creator: fig2dev Version 3.2.6a -->
-<!-- CreationDate: 2019-01-27 14:15:39 -->
+<!-- CreationDate: 2019-01-28 19:03:45 -->
 <!-- Magnification: 1.05 -->
 <svg	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -254,6 +254,6 @@
 <!-- Text -->
 <text xml:space="preserve" x="5175" y="4725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Retire fence signal</text>
 <!-- Text -->
-<text xml:space="preserve" x="6075" y="4950" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">PRESENT_TIME_OFFSET_FROM_VSYNC_NS, almost = 0</text>
+<text xml:space="preserve" x="6075" y="4950" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">PRESENT_TIME_OFFSET_FROM_VSYNC_NS, always = 0</text>
 </g>
 </svg>
